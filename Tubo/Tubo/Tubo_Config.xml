@@ -18,7 +18,7 @@
 			<LeaderAbilityIcon>ICON_LEADER_SONGTSAN</LeaderAbilityIcon>
 			<LeaderAbilityName>LOC_LEADER_ABILITY_NAME</LeaderAbilityName>
 
-			<Portrait>IMG_SELECTION_FOREGROUND_SONGTSAN</Portrait>
+			<Portrait>IMG_DIPLOMACY_FOREGROUND</Portrait>
 		</Row> 
 		<!-- Expansion 1 Support -->
 		<Row>
@@ -39,11 +39,10 @@
 			<LeaderAbilityIcon>ICON_LEADER_SONGTSAN</LeaderAbilityIcon>
 			<LeaderAbilityName>LOC_LEADER_ABILITY_NAME</LeaderAbilityName>
 
-			<Portrait>IMG_SELECTION_FOREGROUND_SONGTSAN</Portrait>
+			<Portrait>IMG_DIPLOMACY_FOREGROUND</Portrait>
 		</Row>
 		<!-- Expansion 2 Support -->
 		<Row>
-			<Domain>Players:Expansion2_Players</Domain>
 			<CivilizationType>CIVILIZATION_TUBO</CivilizationType>
 			<CivilizationName>LOC_CIVILIZATION_TUBO_NAME</CivilizationName>
 			<CivilizationIcon>ICON_CIVILIZATION_TUBO</CivilizationIcon>
@@ -60,7 +59,7 @@
 			<LeaderAbilityIcon>ICON_LEADER_SONGTSAN</LeaderAbilityIcon>
 			<LeaderAbilityName>LOC_LEADER_ABILITY_NAME</LeaderAbilityName>
 
-			<Portrait>IMG_SELECTION_FOREGROUND_SONGTSAN</Portrait>
+			<Portrait>IMG_DIPLOMACY_FOREGROUND</Portrait>
 		</Row>
 	</Players>
 	

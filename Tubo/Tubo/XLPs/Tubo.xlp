@@ -62,36 +62,36 @@
 			<m_ObjectName text="ICON_CIVILIZATION_TUBO_80"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_256"/>
-			<m_ObjectName text="ICON_SONGTSAN_256"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_256"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_256"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_32"/>
-			<m_ObjectName text="ICON_SONGTSAN_32"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_32"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_32"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_45"/>
-			<m_ObjectName text="ICON_SONGTSAN_45"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_45"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_45"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_48"/>
-			<m_ObjectName text="ICON_SONGTSAN_48"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_48"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_48"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_50"/>
-			<m_ObjectName text="ICON_SONGTSAN_50"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_50"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_55"/>
-			<m_ObjectName text="ICON_SONGTSAN_55"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_55"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_55"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_64"/>
-			<m_ObjectName text="ICON_SONGTSAN_64"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_64"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SONGTSAN_80"/>
-			<m_ObjectName text="ICON_SONGTSAN_80"/>
+			<m_EntryID text="ICON_LEADER_SONGTSAN_80"/>
+			<m_ObjectName text="ICON_LEADER_SONGTSAN_80"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

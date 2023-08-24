@@ -19,14 +19,14 @@ Replacing asset: (ICON_CIVILIZATION_TUBO_48) in entry (ICON_CIVILIZATION_TUBO_48
 Replacing asset: (ICON_CIVILIZATION_TUBO_50) in entry (ICON_CIVILIZATION_TUBO_50) with error asset
 Replacing asset: (ICON_CIVILIZATION_TUBO_64) in entry (ICON_CIVILIZATION_TUBO_64) with error asset
 Replacing asset: (ICON_CIVILIZATION_TUBO_80) in entry (ICON_CIVILIZATION_TUBO_80) with error asset
-Replacing asset: (ICON_SONGTSAN_256) in entry (ICON_SONGTSAN_256) with error asset
-Replacing asset: (ICON_SONGTSAN_32) in entry (ICON_SONGTSAN_32) with error asset
-Replacing asset: (ICON_SONGTSAN_45) in entry (ICON_SONGTSAN_45) with error asset
-Replacing asset: (ICON_SONGTSAN_48) in entry (ICON_SONGTSAN_48) with error asset
-Replacing asset: (ICON_SONGTSAN_50) in entry (ICON_SONGTSAN_50) with error asset
-Replacing asset: (ICON_SONGTSAN_55) in entry (ICON_SONGTSAN_55) with error asset
-Replacing asset: (ICON_SONGTSAN_64) in entry (ICON_SONGTSAN_64) with error asset
-Replacing asset: (ICON_SONGTSAN_80) in entry (ICON_SONGTSAN_80) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_256) in entry (ICON_LEADER_SONGTSAN_256) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_32) in entry (ICON_LEADER_SONGTSAN_32) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_45) in entry (ICON_LEADER_SONGTSAN_45) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_48) in entry (ICON_LEADER_SONGTSAN_48) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_50) in entry (ICON_LEADER_SONGTSAN_50) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_55) in entry (ICON_LEADER_SONGTSAN_55) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_64) in entry (ICON_LEADER_SONGTSAN_64) with error asset
+Replacing asset: (ICON_LEADER_SONGTSAN_80) in entry (ICON_LEADER_SONGTSAN_80) with error asset
 The following 21 entities had errors:
 Textures: 21
     ICON_CIVILIZATION_TUBO_128
@@ -42,14 +42,14 @@ Textures: 21
     ICON_CIVILIZATION_TUBO_50
     ICON_CIVILIZATION_TUBO_64
     ICON_CIVILIZATION_TUBO_80
-    ICON_SONGTSAN_256
-    ICON_SONGTSAN_32
-    ICON_SONGTSAN_45
-    ICON_SONGTSAN_48
-    ICON_SONGTSAN_50
-    ICON_SONGTSAN_55
-    ICON_SONGTSAN_64
-    ICON_SONGTSAN_80
+    ICON_LEADER_SONGTSAN_256
+    ICON_LEADER_SONGTSAN_32
+    ICON_LEADER_SONGTSAN_45
+    ICON_LEADER_SONGTSAN_48
+    ICON_LEADER_SONGTSAN_50
+    ICON_LEADER_SONGTSAN_55
+    ICON_LEADER_SONGTSAN_64
+    ICON_LEADER_SONGTSAN_80
 
 ****** Log from Texture: 'ICON_CIVILIZATION_TUBO_128' (ERRORS!!) ********
 --------------
@@ -103,40 +103,40 @@ I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_CIVILI
 --------------
 I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_CIVILIZATION_TUBO_80.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_256' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_256' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_256.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_256.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_32' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_32' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_32.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_32.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_45' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_45' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_45.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_45.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_48' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_48' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_48.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_48.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_50' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_50' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_50.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_50.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_55' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_55' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_55.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_55.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_64' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_64' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_64.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_64.tex
 
-****** Log from Texture: 'ICON_SONGTSAN_80' (ERRORS!!) ********
+****** Log from Texture: 'ICON_LEADER_SONGTSAN_80' (ERRORS!!) ********
 --------------
-I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_SONGTSAN_80.tex
+I/O error reading XML: E:\stuff\civilization6edit\Tubo\Tubo/Textures/ICON_LEADER_SONGTSAN_80.tex
 Load finished for: 'Tubo' in 0.001 seconds
 Cook finished for: 'Tubo' in 0.001 seconds
-Disk write finished for: 'Tubo' in 0.045 seconds
+Disk write finished for: 'Tubo' in 0.041 seconds
 Cleanup finished for: 'Tubo' in 0.000 seconds
 XLP cook completed with success.
-Cook completed in 0.054 seconds
+Cook completed in 0.050 seconds
