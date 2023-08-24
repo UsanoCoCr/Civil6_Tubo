@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tubo_Leaders -->
+<!-- Author: forev -->
+<!-- DateCreated: 8/24/2023 4:58:30 PM -->
+<GameData>
+	<Types>
+		<Row Type="LEADER_SONGTSAN" Kind="KIND_LEADER"/>
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_SONGTSAN" Name="LOC_LEADER_SONGTSAN_NAME" 
+			 InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
+	</Leaders>
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_SONGTSAN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_SONGTSAN_QUOTE" 
+			 QuoteAudio="Play_INDI_GA_MISC_PEP_TALK_A_1"/>
+	</LeaderQuotes>
+</GameData>

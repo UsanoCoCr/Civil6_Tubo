@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Tubo Civil</Name>
+    <Guid>2e785850-8b58-4a52-ace6-6e687da20617</Guid>
+    <ProjectGuid>f18e2a80-7d17-4432-8793-c2e3db60cf83</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>only a try</Teaser>
+    <Description>only a try</Description>
+    <Authors>KangZixi</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Tubo</AssemblyName>
+    <RootNamespace>Tubo</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="config"><File>Tubo_Config.xml</File></UpdateDatabase><UpdateText id="text"><File>Tubo_Text.xml</File></UpdateText><UpdateArt id="art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="icon"><File>Tubo_Icons.xml</File></UpdateIcons></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="database"><File>Tubo_Civilization.xml</File><File>Tubo_Leaders.xml</File><File>Tubo_Units.xml</File><File>Tubo_Buildings.xml</File></UpdateDatabase><UpdateText id="text"><File>Tubo_Text.xml</File></UpdateText><UpdateIcons id="icon"><File>Tubo_Icons.xml</File></UpdateIcons><UpdateArt id="art"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Tubo.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Tubo_Buildings.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Tubo_Civilization.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Tubo_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Tubo_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Tubo_Leaders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Tubo_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Tubo_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

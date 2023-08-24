@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- Almost all gameplay types should first be added to the types table. -->
+	<!-- This serves as a central way to reference any type -->
+	<Types>
+		<Row Type="UNIT_WURUARMOR" Kind="KIND_UNIT" />
+	</Types>
+
+	<UnitAiInfos>
+		<Row UnitType="UNIT_WURUARMOR" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_WURUARMOR" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_WURUARMOR" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_WURUARMOR" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAiInfos>
+
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_WURUARMOR" ReplacesUnitType="UNIT_SWORDSMAN"/>
+	</UnitReplaces>
+
+	<TypeTags>
+		<Row Type="UNIT_WURUARMOR" Tag="CLASS_MELEE"/>
+	</TypeTags>
+	<!-- Define the actual unit here. For examples of additional properties and values, look at Units.xml in /Base/Assets/Gameplay/Data/-->
+	<Units>
+		<Row UnitType="UNIT_WURUARMOR"
+			 Cost="90"
+			 Maintenance="2"
+			 BaseMoves="3"
+			 BaseSightRange="2"
+			 ZoneOfControl="true"
+			 Domain="DOMAIN_LAND"
+			 Combat="38"
+			 StrategicResource="RESOURCE_IRON"
+			 FormationClass="FORMATION_CLASS_LAND_COMBAT"
+			 PromotionClass="PROMOTION_CLASS_MELEE"
+			 AdvisorType="ADVISOR_CONQUEST"
+			 Name="LOC_UNIT_WURUARMOR_NAME"
+			 Description="LOC_UNIT_WURUARMOR_DESCRIPTION"
+			 PurchaseYield="YIELD_GOLD"
+			 MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS"
+			 PrereqTech="TECH_IRON_WORKING"
+			 TraitType="TRAIT_UNIT_WURUARMOR"
+		   />
+	</Units>
+
+	<UnitUpgrades>
+		<Row Unit="UNIT_WURUARMOR" UpgradeUnit="UNIT_MAN_AT_ARMS"/>
+	</UnitUpgrades>
+</GameData>

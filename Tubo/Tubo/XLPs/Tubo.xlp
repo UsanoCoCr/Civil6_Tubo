@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Tubo"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_TUBO_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_TUBO_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_256"/>
+			<m_ObjectName text="ICON_SONGTSAN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_32"/>
+			<m_ObjectName text="ICON_SONGTSAN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_45"/>
+			<m_ObjectName text="ICON_SONGTSAN_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_48"/>
+			<m_ObjectName text="ICON_SONGTSAN_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_50"/>
+			<m_ObjectName text="ICON_SONGTSAN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_55"/>
+			<m_ObjectName text="ICON_SONGTSAN_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_64"/>
+			<m_ObjectName text="ICON_SONGTSAN_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SONGTSAN_80"/>
+			<m_ObjectName text="ICON_SONGTSAN_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

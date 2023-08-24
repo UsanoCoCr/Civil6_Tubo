@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<!-- Almost all gameplay types should first be added to the types table. -->
+	<!-- This serves as a central way to reference any type -->
+	<Types>
+		<Row Type="BUILDING_JUEKANG" Kind="KIND_BUILDING" />
+	</Types>
+
+	<!-- Define the building here. For examples of additional properties and values, look at Buildings.xml in /Base/Assets/Gameplay/Data/-->
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_JUEKANG" ReplacesBuildingType="BUILDING_SHRINE"/>
+	</BuildingReplaces>
+	<Buildings>
+		<Row BuildingType="BUILDING_JUEKANG"
+			 Name="LOC_BUILDING_JUEKANG_NAME"
+			 Description="LOC_BUILDING_JUEKANG_DESCRIPTION"
+			 PrereqTech="TECH_ASTROLOGY"
+			 PrereqDistrict="DISTRICT_HOLY_SITE"
+			 PurchaseYield="YIELD_GOLD"
+			 Cost="50"
+			 AdvisorType="ADVISOR_RELIGIOUS"
+			 Maintenance="1"
+			 CitizenSlots="1"
+			 TraitType="TRAIT_BUILDING_JUEKANG"
+			 />
+	</Buildings>
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_JUEKANG" YieldType="YIELD_FAITH" YieldChange="2"/>
+	</Building_YieldChanges>
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_JUEKANG" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_JUEKANG" GreatPersonClassType="GREAT_PERSON_CLASS_ARTIST" PointsPerTurn="1"/>
+	</Building_GreatPersonPoints>
+</GameData>

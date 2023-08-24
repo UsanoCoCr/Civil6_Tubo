@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tubo_Text -->
+<!-- Author: forev -->
+<!-- DateCreated: 8/24/2023 4:59:01 PM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_ABILITY_NAME" Language="zh_Hans_CN">
+			<text>藏布明珠</text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ABILITY_NAME" Language="zh_Hans_CN">
+			<text>达赖与班禅</text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SONGTSAN_NAME" Language="zh_Hans_CN">
+			<text>松赞干布</text>
+		</Replace>
+		
+		
+	</LocalizedText>
+</GameData>
