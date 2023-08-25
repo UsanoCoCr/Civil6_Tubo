@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <GameData>
 	<IconTextureAtlases>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="32" Filename="ICON_SONGTSAN_32"/>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="45" Filename="ICON_SONGTSAN_45"/>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="48" Filename="ICON_SONGTSAN_48"/>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="50" Filename="ICON_SONGTSAN_50"/>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="55" Filename="ICON_SONGTSAN_55"/>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="64" Filename="ICON_SONGTSAN_64"/>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="80" Filename="ICON_SONGTSAN_80"/>
-		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="256" Filename="ICON_SONGTSAN_256"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="22" Filename="ICON_CIVILIZATION_TUBO_22"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="30" Filename="ICON_CIVILIZATION_TUBO_30"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="32" Filename="ICON_CIVILIZATION_TUBO_32"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="36" Filename="ICON_CIVILIZATION_TUBO_36"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="44" Filename="ICON_CIVILIZATION_TUBO_44"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="45" Filename="ICON_CIVILIZATION_TUBO_45"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="48" Filename="ICON_CIVILIZATION_TUBO_48"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="50" Filename="ICON_CIVILIZATION_TUBO_50"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="64" Filename="ICON_CIVILIZATION_TUBO_64"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="80" Filename="ICON_CIVILIZATION_TUBO_80"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="128" Filename="ICON_CIVILIZATION_TUBO_128"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="200" Filename="ICON_CIVILIZATION_TUBO_200"/>
-		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="256" Filename="ICON_CIVILIZATION_TUBO_256"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="32" Filename="dl_32"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="45" Filename="dl_45"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="48" Filename="dl_48"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="50" Filename="dl_50"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="55" Filename="dl_55"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="64" Filename="dl_64"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="80" Filename="dl_80"/>
+		<Row Name="ATLAS_ICON_SONGTSAN" IconSize="256" Filename="dl_256"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="22" Filename="OIP_22"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="30" Filename="OIP_30"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="32" Filename="OIP_32"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="36" Filename="OIP_36"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="44" Filename="OIP_44"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="45" Filename="OIP_45"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="48" Filename="OIP_48"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="50" Filename="OIP_50"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="64" Filename="OIP_64"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="80" Filename="OIP_80"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="128" Filename="OIP_128"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="200" Filename="OIP_200"/>
+		<Row Name="ATLAS_ICON_CIVILIZATION_TUBO" IconSize="256" Filename="OIP_256"/>
 	</IconTextureAtlases>
 	<IconDefinitions>
-		<Row Name="ICON_0" Atlas="ATLAS_ICON_SONGTSAN" Index="0"/>
-		<Row Name="ICON_0" Atlas="ATLAS_ICON_CIVILIZATION_TUBO" Index="0"/>
+		<Row Name="ICON_SONGTSAN" Atlas="ATLAS_ICON_SONGTSAN" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_TUBO" Atlas="ATLAS_ICON_CIVILIZATION_TUBO" Index="0"/>
 	</IconDefinitions>
 </GameData>

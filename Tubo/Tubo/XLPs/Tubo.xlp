@@ -10,88 +10,88 @@
 	<m_PackageName text="Tubo"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_128"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_128"/>
+			<m_EntryID text="dl_128"/>
+			<m_ObjectName text="dl_128"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_200"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_200"/>
+			<m_EntryID text="dl_200"/>
+			<m_ObjectName text="dl_200"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_22"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_22"/>
+			<m_EntryID text="dl_22"/>
+			<m_ObjectName text="dl_22"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_256"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_256"/>
+			<m_EntryID text="dl_256"/>
+			<m_ObjectName text="dl_256"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_30"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_30"/>
+			<m_EntryID text="dl_30"/>
+			<m_ObjectName text="dl_30"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_32"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_32"/>
+			<m_EntryID text="dl_32"/>
+			<m_ObjectName text="dl_32"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_36"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_36"/>
+			<m_EntryID text="dl_36"/>
+			<m_ObjectName text="dl_36"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_44"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_44"/>
+			<m_EntryID text="dl_44"/>
+			<m_ObjectName text="dl_44"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_45"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_45"/>
+			<m_EntryID text="dl_45"/>
+			<m_ObjectName text="dl_45"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_48"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_48"/>
+			<m_EntryID text="dl_48"/>
+			<m_ObjectName text="dl_48"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_50"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_50"/>
+			<m_EntryID text="dl_50"/>
+			<m_ObjectName text="dl_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_64"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_64"/>
+			<m_EntryID text="dl_64"/>
+			<m_ObjectName text="dl_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_CIVILIZATION_TUBO_80"/>
-			<m_ObjectName text="ICON_CIVILIZATION_TUBO_80"/>
+			<m_EntryID text="dl_80"/>
+			<m_ObjectName text="dl_80"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_256"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_256"/>
+			<m_EntryID text="OIP_256"/>
+			<m_ObjectName text="OIP_256"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_32"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_32"/>
+			<m_EntryID text="OIP_32"/>
+			<m_ObjectName text="OIP_32"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_45"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_45"/>
+			<m_EntryID text="OIP_45"/>
+			<m_ObjectName text="OIP_45"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_48"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_48"/>
+			<m_EntryID text="OIP_48"/>
+			<m_ObjectName text="OIP_48"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_50"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_50"/>
+			<m_EntryID text="OIP_50"/>
+			<m_ObjectName text="OIP_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_55"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_55"/>
+			<m_EntryID text="OIP_55"/>
+			<m_ObjectName text="OIP_55"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_64"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_64"/>
+			<m_EntryID text="OIP_64"/>
+			<m_ObjectName text="OIP_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_LEADER_SONGTSAN_80"/>
-			<m_ObjectName text="ICON_LEADER_SONGTSAN_80"/>
+			<m_EntryID text="OIP_80"/>
+			<m_ObjectName text="OIP_80"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
