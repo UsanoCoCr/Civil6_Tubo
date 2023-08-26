@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- NewLeader_Units -->
+<!-- Author: forev -->
+<!-- DateCreated: 8/26/2023 9:00:10 PM -->
 <GameData>
 	<!-- Almost all gameplay types should first be added to the types table. -->
 	<!-- This serves as a central way to reference any type -->
@@ -39,7 +42,7 @@
 			 PurchaseYield="YIELD_GOLD"
 			 MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS"
 			 PrereqTech="TECH_IRON_WORKING"
-			 TraitType="TRAIT_UNIT_WURUARMOR"
+             TraitType="TRAIT_UNIT_WURUARMOR"
 		   />
 	</Units>
 

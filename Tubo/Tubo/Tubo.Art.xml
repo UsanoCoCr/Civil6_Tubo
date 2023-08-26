@@ -2,7 +2,7 @@
 <AssetObjects..GameArtSpecification>
 	<id>
 		<name text="Tubo Civil"/>
-		<id text="2e785850-8b58-4a52-ace6-6e687da20617"/>
+		<id text="a0f75aee-a696-419c-8fa9-f34c7ddacf2d"/>
 	</id>
 	<artConsumers>
 		<Element>
@@ -16,6 +16,7 @@
 		<Element>
 			<consumerName text="Audio"/>
 			<relativeArtDefPaths>
+				<Element text="Civilizations.artdef"/>
 				<Element text="Units.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -34,6 +35,7 @@
 		<Element>
 			<consumerName text="Civilizations"/>
 			<relativeArtDefPaths>
+				<Element text="Civilizations.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -61,6 +63,7 @@
 		<Element>
 			<consumerName text="Cultures"/>
 			<relativeArtDefPaths>
+				<Element text="Civilizations.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -148,6 +151,7 @@
 		<Element>
 			<consumerName text="Landmarks"/>
 			<relativeArtDefPaths>
+				<Element text="Civilizations.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="CityBuildings"/>
@@ -430,6 +434,7 @@
 			<consumerName text="WorldView_Translate"/>
 			<relativeArtDefPaths>
 				<Element text="Buildings.artdef"/>
+				<Element text="Civilizations.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 			</libraryDependencies>
@@ -576,7 +581,7 @@
 		<Element>
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
-				<Element text="Tubo"/>
+				<Element text="UILeaders"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>

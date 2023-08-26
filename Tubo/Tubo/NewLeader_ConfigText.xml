@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_FELINE_NAME" Language="zh_Hans_CN">
+			<Text>吐蕃</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_FELINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>吐蕃王朝是中国西藏历史上第一个有明确史料记载的政权，松赞干布被认为是实际立国者。
+			青藏高原各部在吐蕃王朝的统一下凝聚成强大势力，逐渐走出封闭的内陆高原，使得古代藏族社会第一次出现勃勃生机。</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FELINE_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>吐蕃</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_JASPER_KITTY_NAME" Language="zh_Hans_CN">
+			<Text>松赞干布</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="zh_Hans_CN">
+			<Text>藏布明珠</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>国境内所有湖泊单元格基础生产力+1，信仰值+1</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="zh_Hans_CN">
+			<Text>达赖与班禅</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>创立宗教时，免费在圣城赠送一名使徒</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="zh_Hans_CN">
+			<Text>觉康</Text>
+		</Row>
+		
+		<Row Tag="LOC_BUILDING_LITTER_BOX_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>取代神社，建造需要更少的基础生产力，比神社每回合多提供1点信仰值。
+			每回合+1大预言家点数，+1大艺术家点数，每与一个经幡改良设施相近，+1生产力</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_WURUARMOR_NAME" Language="zh_Hans_CN">
+			<Text>五如藏兵</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_WURUARMOR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代剑客，基础生产力与剑客相同，基础攻击力38，3移动力，在丘陵上战斗时+5攻击力</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

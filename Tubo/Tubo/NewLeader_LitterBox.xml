@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_LITTER_BOX" Kind="KIND_BUILDING" />
+	</Types>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_LITTER_BOX" ReplacesBuildingType="BUILDING_SHRINE"/>
+	</BuildingReplaces>
+	<Buildings>
+		<Row BuildingType="BUILDING_LITTER_BOX"
+			 Name="LOC_BUILDING_LITTER_BOX_NAME"
+			 Description="LOC_BUILDING_LITTER_BOX_DESCRIPTION"
+			 PrereqTech="TECH_ASTROLOGY"
+			 PrereqDistrict="DISTRICT_HOLY_SITE"
+			 PurchaseYield="YIELD_GOLD"
+			 Cost="50"
+			 AdvisorType="ADVISOR_RELIGIOUS"
+			 Maintenance="1"
+			 CitizenSlots="1"
+			 TraitType="TRAIT_BUILDING_LITTER_BOX"
+			 />
+	</Buildings>
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_LITTER_BOX" YieldType="YIELD_FAITH" YieldChange="3"/>
+	</Building_YieldChanges>
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_LITTER_BOX" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_LITTER_BOX" GreatPersonClassType="GREAT_PERSON_CLASS_ARTIST" PointsPerTurn="1"/>
+	</Building_GreatPersonPoints>
+</GameData>
