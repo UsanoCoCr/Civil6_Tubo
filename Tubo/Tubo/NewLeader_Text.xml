@@ -12,21 +12,17 @@
 			<Text>松赞干布是西藏帝国的创始人，他统一了西藏，并促进了佛教在西藏的传播。</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASPER_KITTY_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
-			<Text>松赞干布在年轻时期即继承了王位，并迅速展开征服，统一了西藏。他还与尼泊尔和唐朝的公主结婚，加强了与邻国的关系。</Text>
+			<Text>松赞干布继承了王位，并迅速展开征服，统一了西藏。</Text>
 		</Row>
 		
 		<!-- Leader specific historical text. -->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASPER_KITTY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-			<Text>松赞干布在7世纪初期出生，他在年轻时期即继承了王位，并迅速展开征服。他还与尼泊尔和唐朝的公主结婚，
-			加强了与邻国的关系。他统一了西藏，并促进了佛教在西藏的传播，还与邻国建立了友好关系，为西藏带来了繁荣。
-			他还下令创建了藏文，为藏族人民留下了宝贵的文化遗产。</Text>
+			<Text>松赞干布是西藏帝国的创始人，他统一了西藏，并促进了佛教在西藏的传播。</Text>
 		</Row>
 
 		<!-- Civilization specific historical text. -->
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FELINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-			<Text>吐蕃帝国是古代西藏的一个强大帝国，它在7世纪到9世纪达到了鼎盛。吐蕃帝国在松赞干布的领导下统一了西藏，
-			并与周边的大国如唐朝建立了友好关系。帝国在其鼎盛时期的领土范围广泛，从中亚到南亚。吐蕃帝国还促进了佛教在西藏的传播，
-			并为藏族文化留下了深远的影响。</Text>
+			<Text>吐蕃帝国是古代西藏的一个强大帝国，促进了佛教在西藏的传播。</Text>
 		</Row>
 
 		<!-- Civlization Citizen Names -->

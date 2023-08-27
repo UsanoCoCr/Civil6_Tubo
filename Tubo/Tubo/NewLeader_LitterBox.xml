@@ -18,7 +18,7 @@
 			 AdvisorType="ADVISOR_RELIGIOUS"
 			 Maintenance="1"
 			 CitizenSlots="1"
-			 TraitType="TRAIT_BUILDING_LITTER_BOX"
+			 TraitType="TRAIT_CIVILIZATION_BUILDING_LITTER_BOX"
 			 />
 	</Buildings>
 	<Building_YieldChanges>

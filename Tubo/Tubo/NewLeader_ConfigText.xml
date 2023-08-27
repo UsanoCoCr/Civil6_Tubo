@@ -6,8 +6,7 @@
 		</Row>
 		
 		<Row Tag="LOC_CIVILIZATION_FELINE_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>吐蕃王朝是中国西藏历史上第一个有明确史料记载的政权，松赞干布被认为是实际立国者。
-			青藏高原各部在吐蕃王朝的统一下凝聚成强大势力，逐渐走出封闭的内陆高原，使得古代藏族社会第一次出现勃勃生机。</Text>
+			<Text>吐蕃帝国</Text>
 		</Row>
 
 		<Row Tag="LOC_CIVILIZATION_FELINE_ADJECTIVE" Language="zh_Hans_CN">
