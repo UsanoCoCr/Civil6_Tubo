@@ -2,7 +2,6 @@
 <GameData>
 	<Players>
 		<Row>
-			<Domain>StandardPlayers</Domain>
 			<CivilizationType>CIVILIZATION_FELINE</CivilizationType>
 			<LeaderType>LEADER_JASPER_KITTY</LeaderType>
 			<CivilizationName>LOC_CIVILIZATION_FELINE_NAME</CivilizationName>
@@ -52,7 +51,6 @@
 	</Players>
 	<PlayerItems>
 		<Row>
-			<Domain>StandardPlayers</Domain>
 			<CivilizationType>CIVILIZATION_FELINE</CivilizationType>
 			<LeaderType>LEADER_JASPER_KITTY</LeaderType>
 			<Type>BUILDING_LITTER_BOX</Type>
